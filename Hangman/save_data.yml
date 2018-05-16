@@ -1,0 +1,17 @@
+---
+:word:
+- c
+- o
+- b
+- w
+- e
+- b
+:chance: 4
+:word_result: cob**b
+:miss:
+- a
+:correct:
+- c
+- o
+- b
+- b
